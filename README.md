@@ -24,7 +24,7 @@ This project aims to provide a practical guide to simulating data from various p
 
 1. **Random Sampling**: Generating random samples from specified distributions.
 2. **Descriptive Statistics**: Calculating summary statistics to describe the data.
-3. **Probability Distributions**: Simulating data from uniform, normal, and exponential distributions.
+3. **Data Simnulation from Probability Distributions**: Simulating data from uniform, normal, and exponential distributions.
 4. **Data Visualization**: Creating histograms and scatter plots to visualize data.
 5. **Custom Function**: Creating a function to automate the data generation and plotting process.
 
